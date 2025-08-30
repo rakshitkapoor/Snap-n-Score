@@ -24,7 +24,9 @@ Snap n' Score is a Flutter-based project designed to manage attendance using QR 
 
 
 ### Student Android App
-![Untitled design (1)](https://github.com/user-attachments/assets/6db02fae-b9a1-4fe5-aa99-d6a854e08816)
+https://github.com/user-attachments/assets/d36642e0-d572-4639-abde-9a781d1cfbae
+
+
 
 ## Demo
 
